@@ -1,13 +1,8 @@
-streamlit==1.35.0
-pandas==2.2.2
+streamlit==1.24.0
 scikit-learn==1.5.0
-numpy==1.26.4
-matplotlib==3.8.4
+librosa==0.10.2.post1
 nltk==3.8.1
 spacy==3.7.5
+numpy==1.26.4
+pandas==2.2.2
 pdfminer.six==20240706
-scipy==1.13.1
-joblib==1.4.2
-regex==2024.7.24
-Pillow==10.3.0
-requests==2.32.2
